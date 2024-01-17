@@ -3,6 +3,5 @@
   at [Suez Canal University](https://suez.edu.eg/ar/).
 - 💥 I'm a Competitive Programmer at 
 [CodeForces](https://codeforces.com/profile/Islam_Imad) ,
-[AtCoder](https://atcoder.jp/users/Islam_Imad) , 
-[UVA](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15).
+[AtCoder](https://atcoder.jp/users/Islam_Imad) 
 - 🌱 I’m currently learning Software Engineering.
