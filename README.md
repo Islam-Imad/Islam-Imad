@@ -96,7 +96,7 @@
     alt="islam_imad" 
     height="30" width="40" 
 /></a>
-<a href="https://fb.com/islam_imad" target="blank">
+<a href="https://www.facebook.com/islam.imad.566/" target="blank">
     <img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
     alt="islam_imad" 
