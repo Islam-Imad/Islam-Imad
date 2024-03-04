@@ -28,7 +28,7 @@
 </a>
 <a href="https://www.codechef.com/users/islam_imad" target="blank">
     <img align="center" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+    src="https://img.icons8.com/?size=256&id=eqDiO9L02aEu&format=png" 
     alt="islam_imad" 
     height="30" width="40" />
 </a>
@@ -105,4 +105,4 @@
 </p>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-imad&" alt="islam-imad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-imad&" alt="islam-imad" /></p>
