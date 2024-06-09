@@ -105,4 +105,4 @@
 </p>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Islam-Imad&" alt="islam-imad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Islam-Imad" alt="islam-imad" /></p>
