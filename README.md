@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Islam Imad!;Competitive Programmer;1x ACPC" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Islam Imad!;Candidate Master 💜;1x ACPC Finalist" />
 </h1>
 
 - 😃I'm Interested in **Competitive Programming** and **Mathematics**
