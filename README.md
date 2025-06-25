@@ -1,8 +1,7 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9C36B5&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Islam+Imad!;💜+Candidate+Master+💜;ACPC+Finalist" alt="Islam Imad" />
-    </a>
-</h1>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=9C36B5&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Islam+Imad!;💜+Candidate+Master+💜;ACPC+Finalist;Software+Engineer;)](https://git.io/typing-svg)
+</div>
 
 - 😃I'm Interested in **Competitive Programming** and **Mathematics**
 - 🌱 I’m currently learning **Software Engineering**
